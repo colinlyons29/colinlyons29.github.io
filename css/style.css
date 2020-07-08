@@ -10,6 +10,10 @@ Licence under Creative Commons Attribution 3.0
 
 /* Reset
 ---------------------------------*/
+html {
+    scroll-behavior: smooth;
+}
+
 ul {
     list-style: none;
 }
